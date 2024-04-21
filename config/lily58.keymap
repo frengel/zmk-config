@@ -42,9 +42,9 @@
 
             bindings = <
 &bt BT_CLR  &bt BT_SEL 0     &bt BT_SEL 1     &bt BT_SEL 2     &bt BT_SEL 3     &bt BT_SEL 4                            &tog 3         &trans            &trans             &trans    &trans    &kp GRAVE
-&kp CAPS    &kp PLUS         &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp SLASH                               &kp BACKSLASH  &kp F8            &kp F9             &kp F10   &kp F11   &kp F12
+&kp CAPS    &kp PLUS         &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp SLASH                               &kp BACKSLASH  &kp LBRC          &kp RBRC           &trans    &trans    &kp PIPE
 &trans      &kp EQUAL        &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp ASTERISK                            &kp CARET      &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp LPAR  &kp RPAR  &kp TILDE
-&trans      &kp KP_NUMBER_0  &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp PERIOD    &kp C_PREV    &kp C_NEXT  &kp AMPERSAND  &kp MINUS         &kp PLUS           &kp LBRC  &kp RBRC  &kp PIPE
+&trans      &kp KP_NUMBER_0  &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp PERIOD    &kp C_PREV    &kp C_NEXT  &kp AMPERSAND  &kp MINUS         &kp PLUS           &trans    &trans    &trans
                                               &trans           &trans           &trans        &trans        &trans      &trans         &trans            &trans
             >;
 
